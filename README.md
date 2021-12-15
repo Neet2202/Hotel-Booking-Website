@@ -23,4 +23,4 @@ Room details include:- Features,Approx,room size,Bed Type,Interconnecting rooms,
     
     
    
-    <b> In the End confirm the further details </b>
+  <b> In the End confirm the further details </b>
